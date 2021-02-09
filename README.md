@@ -1,3 +1,3 @@
-# metal project
+# Web scraping of metal bands
  
 This project was inspired by a joke I've seen on the comments section of some music videos, usually something along the lines of "you can't walk through a forest in Europe these days without running into a folk metal band" (an example can be found in Sigmarillion's comment [here](https://www.youtube.com/watch?v=TkbadvaMuXo)). I thought I would test that by scraping all the bands from https://www.metal-archives.com/ and combining this data with the % of land area covered by forests to look for any correlation between the number of metal bands per capita and the 'forest density' of each country.
